@@ -1,0 +1,11 @@
+hello iam sagar
+JavaScript is a single-threaded, synchronous language by default. It can perform 
+asynchronous operations using the Event Loop, Web APIs, Callback Queue, and Microtask Queue,
+which enables non-blocking behavior without making the JavaScript engine itself multi-threaded.
+hello iam sagar
+JavaScript is a single-threaded, synchronous language by default. It can perform 
+asynchronous operations using the Event Loop, Web APIs, Callback Queue, and Microtask Queue,
+ which enables non-blocking behavior without making the JavaScript engine itself multi-threaded.
+/Users/sagarkumargupta/Desktop/web development/nodejs/lecture02/fs.js:9
+console.log(hello2);
+            ^
